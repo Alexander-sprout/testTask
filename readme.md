@@ -1,4 +1,4 @@
-# Sanya Boilerplate
+# Binary Three
 
 ## Перед запуском
 Создайте файл .env по образцу .env.example
